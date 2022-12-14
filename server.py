@@ -1,6 +1,5 @@
 # Server side
 import socket
-import Config
 
 s = socket.socket()
 print('Socket created')
